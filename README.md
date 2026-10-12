@@ -30,10 +30,10 @@ When Impact is High, Assignment group becomes mandatory. When the condition beco
 ServiceNow Incident Management. This project is configured directly in ServiceNow; it does not require a separate local application stack.
 
 ## Team
-UNIVERSITY NAME : ALAGAPPA UNIVERSITY
-COLLEGE NAME : K.L.N. ARTS & SCIENCES COLLEGE
-COLLEGE CODE : ALUAU60
-TEAM NAME : THE ETERNALS (ALUAU60TheEternals)
+UNIVERSITY NAME : ALAGAPPA UNIVERSITY  
+COLLEGE NAME : K.L.N. ARTS & SCIENCES COLLEGE  
+COLLEGE CODE : ALUAU60  
+TEAM NAME : THE ETERNALS (ALUAU60TheEternals)  
 
 ## Team Members
 
