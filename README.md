@@ -44,11 +44,5 @@ TEAM NAME : THE ETERNALS (ALUAU60TheEternals)
 | KAVINRAJ T S | Administrator / Developer |
 | RAKSHITH K | Tester |
 
-## Before Submission
-- Add screenshots from your ServiceNow instance.
-- Record actual test outcomes in Phase 6.
-- Add your public GitHub URL and public Google Drive demo URL in Phase 8.
-- Do not commit passwords, session tokens, or other secrets.
-
 ## Limitations
 The urgency script only sets Urgency to High when Impact becomes High; it does not reset Urgency when Impact changes away from High. The State list-edit script is client-side only and is not a server-side security control.
